@@ -1,4 +1,4 @@
-# Your Project's Name
+# Wedding Website
 
 One or two paragraphs providing an overview of your project.
 
