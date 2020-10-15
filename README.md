@@ -1,8 +1,7 @@
 # Wedding Website
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This website will work as the invitation and information page for a wedding.
+The point of having this instead of a classic letter invitation is for the guests (users) to have easy access to all info they need. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
  
 ## UX
  
