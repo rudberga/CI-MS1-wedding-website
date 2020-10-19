@@ -15,7 +15,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ### Strategy
 
-Text here for **Strategy** plane
+The goal for this website is to, in a user friendly and beautifully designed way, inform wedding guests about the event as well as making it easy for them to RSVP. The website is also being created to make it easy for the married couple to be to keep track on who is coming as well as answering to other requests.
 
 ### Scope
 
