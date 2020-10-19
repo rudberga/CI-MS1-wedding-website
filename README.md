@@ -15,7 +15,13 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ### Strategy
 
-The goal for this website is to, in a user friendly and beautifully designed way, inform wedding guests about the event as well as making it easy for them to RSVP. The website is also being created to make it easy for the married couple to be to keep track on who is coming as well as answering to other requests.
+The main goal for this website is to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. This will be displayed in a user friendly, minimal and beautifully designed way. The website will also act as a platform for the couple where they will be able to see how many guests are coming as well as other requests.
+
+Project goals: 
+
+- Design a beautiful welcoming website fitting for a wedding
+- Have all relevant information available in a user friendly environment for the users
+- Have a RSVP page which is simple to navigate for any user
 
 ### Scope
 
