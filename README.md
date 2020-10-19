@@ -1,7 +1,8 @@
 <h1 align="center">Wedding Website</h1> 
 
-This website will work as the invitation and information page for a wedding.
-The point of having this instead of a classic letter invitation is for the guests (users) to have easy access to all info they need. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
+As my first Milestone project in the course Full Stack Web Development at Code Institute, I decided to do a website for a wedding.
+
+This website will work as the invitation and information page for the wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
  
 ## UX
  
