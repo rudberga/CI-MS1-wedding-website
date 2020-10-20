@@ -41,7 +41,8 @@ Text here for **Structure** plane
 Text here for **Skeleton** plane
 
 [Wireframe](https://github.com/rudberga/CI-MS1-wedding-website/blob/a019ce35133a506a45443ff541ea1d9b643e79aa/assets/docs/ms1-wireframe.pdf)
-= 4 pages included in the wireframe which are:
+
+4 pages included in the wireframe which are:
 - Home
 - The Couple
 - The Details
