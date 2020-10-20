@@ -10,8 +10,13 @@ Use this section to provide insight into your UX process, focusing on who this w
 
 ### User Stories
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+See below user stories:
+
+> *- "As an invited guest, I expect to find all the information I need, so I can prepare for the wedding"*
+
+> *- "As an invited guest, I expect that I will be able to RSVP to the invitation, so that I do not have to contact the couple directly with that info"*
+
+> *- "As an invited guest returning to the website, I expect , so that I "*
 
 ### Strategy
 
