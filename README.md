@@ -53,8 +53,10 @@ Text here for **Skeleton** plane
 Text here for **Surface** plane
 
 **Fonts**
+Picture here of font and description underneath
 
 **Colors**
+Picture here of colors and description underneath
 
 ## Features
 
