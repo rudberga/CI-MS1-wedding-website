@@ -71,15 +71,15 @@ In addition, you may also use this section to discuss plans for additional featu
 **Languages**
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    - Text here for explanation of use
+    - Main programming language
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
-    - Text here for explanation of use
+    - Main programming language
 
 **Frameworks**
 
 - [Bootstrap](https://getbootstrap.com/)
-    - Text here for explanation of use
+    - Connected to HTML via CDN. Main framework for the website in order to improve the structure of the website
 
 
 ## Testing
