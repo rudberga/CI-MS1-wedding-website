@@ -25,7 +25,12 @@ Project goals:
 
 ### Scope
 
-Text here for **Scope** plane
+The features of this website will let the users:
+
+- Find all the details they need for the wedding
+- RSVP directly via the website with option to add additional important info 
+- Get access to specific contact information for questions about the wedding
+
 
 ### Structure
 
