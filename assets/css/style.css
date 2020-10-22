@@ -11,3 +11,13 @@ html {
 }
 
 /*--------------------------------- Navbar */
+
+nav {
+    margin-right: 10px;
+    font-size: 1em;
+}
+
+.vertical-line {
+    border-left: 1.5px solid rgb(26, 26, 26);
+    margin-right: 14px
+}
