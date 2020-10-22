@@ -68,8 +68,7 @@ Picture here of colors and description underneath
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Feature 1 - RSVP - allows guests to inform if they are coming to the wedding, by filling out a form
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
