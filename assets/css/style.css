@@ -4,7 +4,8 @@
 html, body {
     height: 100%;
     width: 100%;
-    background-image: url(https://images.unsplash.com/photo-1577789054519-b3035748df6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2651&q=80);
+    background-color: #d2e1c8;
+    /*background-image: url(https://images.unsplash.com/photo-1577789054519-b3035748df6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2651&q=80);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -23,7 +24,11 @@ nav {
     margin-right: 14px
 }
 
-/*--------------------------------- Jumbotron */
+.navbar-nav{
+    float: right!important;
+}
+
+/*--------------------------------- Jumbotron homepage */
 
 .jumbotron {
     width: 50%;
@@ -49,4 +54,3 @@ nav {
     border-radius: 14px;
     width: 25%;
 }
-
