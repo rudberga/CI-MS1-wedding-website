@@ -79,11 +79,21 @@ nav {
 .bride-groom {
     margin-top: 60px;
     text-align: center;
+    max-width: 300px;
 }
 
 .title-thecouple {
     text-align: center;
     margin-top: 30px;
+}
+
+.bridegroom-list {
+    text-align: left;
+    list-style-type: none;
+}
+
+.bridegroom-list i {
+    font-size: 1.5em;
 }
 
 /*--------------------------------- Footer */
@@ -94,9 +104,13 @@ nav {
 
 .socials-footer {
     float: right;
-    margin-right: 15px;
+    margin-right: 15px
 }
 
 .copyright-footer {
     margin-left: 15px;
+}
+
+.copyright-footer i {
+    font-size: 1.75em;
 }
