@@ -22,6 +22,10 @@ html, body {
     background-color: #fff;
 }
 
+.page-footer-bg-color {
+    background-color: #fff;
+}
+
 /*--------------------------------- Navbar */
 
 nav {
@@ -85,3 +89,17 @@ nav {
     margin-top: 70px;
 }
 
+/*--------------------------------- Footer */
+
+.page-footer {
+    height: 40px;
+}
+
+.contact-footer {
+    float: right;
+    margin-right: 15px;
+}
+
+.copyright-footer {
+    margin-left: 15px;
+}
