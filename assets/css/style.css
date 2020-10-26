@@ -26,6 +26,11 @@ html, body {
     background-color: #fff;
 }
 
+.btn-couple {
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
 /*--------------------------------- Navbar */
 
 nav {
@@ -69,19 +74,11 @@ nav {
     width: 25%;
 }
 
-.btn-thecouple {
-    
-}
-
-/*---------------------------------  */
-
-.my-col {
-    border: 4px solid green;
-    text-align: center;
-}
+/*--------------------------------- The couple text */
 
 .bride-groom {
     margin-top: 60px;
+    text-align: center;
 }
 
 .title-thecouple {
