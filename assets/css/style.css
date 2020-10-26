@@ -86,7 +86,7 @@ nav {
 
 .title-thecouple {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 30px;
 }
 
 /*--------------------------------- Footer */
@@ -95,7 +95,7 @@ nav {
     height: 40px;
 }
 
-.contact-footer {
+.socials-footer {
     float: right;
     margin-right: 15px;
 }
