@@ -115,6 +115,13 @@ nav {
     height: auto;
 }
 
+/*--------------------------------- RSVP */
+
+.rsvp-form {
+    margin-top: 100px;
+    width: 40%;
+}
+
 /*--------------------------------- Footer */
 
 .page-footer {
