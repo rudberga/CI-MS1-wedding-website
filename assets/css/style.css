@@ -117,5 +117,10 @@ nav {
 
 .how-met {
     text-align: center;
-    
+    max-width:
+}
+
+.how-met h2 {
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
