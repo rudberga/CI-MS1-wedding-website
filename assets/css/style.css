@@ -147,3 +147,20 @@ nav {
     font-size: 1.75em;
 }
 
+/*--------------------------------- Images */
+
+.img-when {
+    max-width: 200%;
+    max-height: 200%;
+    border: 4px solid #fff;
+    margin-top: 40px;
+    float: left;
+}
+
+.img-where {
+    max-width: 200%;
+    max-height: 200%;
+    border: 4px solid #fff;
+    margin-top: 40px;
+    float: left;
+}
