@@ -181,10 +181,16 @@ nav {
 .details-get-there {
     background-color: #f9c4aa;
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .schedule-text {
     text-align: center;
+}
+
+.details-how-to {
+    margin-bottom: 40px;
 }
 
 /*--------------------------------- Schedule */
