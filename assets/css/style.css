@@ -149,7 +149,7 @@ nav {
 
 /*--------------------------------- Images */
 
-.img-when {
+/*.img-when {
     max-width: 200%;
     max-height: 200%;
     border: 4px solid #fff;
@@ -163,4 +163,21 @@ nav {
     border: 4px solid #fff;
     margin-top: 40px;
     float: left;
+}*/
+
+.details-where {
+   margin-top: 50px;
+}
+
+.details-where-when {
+    margin-top: 60px;
+}
+
+.details-map {
+    margin-top: 60px;
+    
+}
+
+.details-get-there {
+    background-color: #f9c4aa;
 }
