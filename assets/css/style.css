@@ -219,7 +219,7 @@ ul.timeline > li:before {
 }
 
 /* Fade in invitation text*/
-/* CREDIT: https://blog.hubspot.com/website/css-fade-in */
+/* CREDIT: https://blog.hubspot.com/website/css-fade-in with adjustments by myself*/
 
 .invitation {
     font-family: 'Playfair Display';
@@ -231,6 +231,7 @@ ul.timeline > li:before {
     text-align: center;
     margin-top: 50px;
     animation-fill-mode: forwards; 
+    padding-bottom: 150px;
 }
 
 @keyframes fadeIn {
