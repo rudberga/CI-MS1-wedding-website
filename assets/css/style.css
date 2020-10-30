@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&family=Raleway:wght@100;200;300;400&display=swap');
 
 /*--------------------------------- Background images/colors */
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
@@ -12,15 +12,6 @@
 }
 
 /*--------------------------------- Colors */
-
-.jumbotron-bg-color {
-    background-color: rgba(255, 255, 255, 0.651);
-}
-
-.jumbotron-btn-bg-color {
-    color: black;
-    background-color: #fff;
-}
 
 .page-footer-bg-color {
     background-color: #fff;
@@ -55,6 +46,7 @@ nav {
     margin-bottom: 40px;
     border-radius: 14px;
     border: 2px solid rgba(218, 218, 218, 0.815);
+    font-size: 18px;
 }
 
 /*--------------------------------- The couple text */
@@ -217,12 +209,6 @@ ul.timeline > li:before {
     margin-bottom: 50px;
 }
 
-.invitation {
-    text-align: center;
-    margin-top: 50px;
-    font-family: 'Playfair Display', serif;
-}
-
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
 
 .vertical {
@@ -230,4 +216,44 @@ ul.timeline > li:before {
     height: 50px; 
     position:inherit; 
     left: 50%;
+}
+
+/* Fade in invitation text*/
+/* CREDIT: https://blog.hubspot.com/website/css-fade-in */
+
+.invitation {
+    font-family: 'Playfair Display';
+    color: black;
+    text-transform: none;
+    opacity: 0.0;
+    animation: fadeIn ease 4s;
+    -webkit-animation: fadeIn ease 4s;
+    text-align: center;
+    margin-top: 50px;
+    animation-fill-mode: forwards; 
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
 }
