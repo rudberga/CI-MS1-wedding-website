@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+
 /*--------------------------------- Background images/colors */
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
 .bg-home {
@@ -46,30 +48,13 @@ nav {
     float: right!important;
 }
 
-/*--------------------------------- Jumbotron homepage */
-
-.jumbotron {
-    width: 50%;
-    margin: 0 auto;
-    margin-top: 10px;
-    font-family: 'Poppins', sans-serif;
-    border: 4px solid #fff;
-}
-
-.jumbotron-date {
-    font-size: 2.5em;
-}
-
-.jumbotron-location {
-    font-size: 20px;
-    font-weight: 300;
-}
-
 /*--------------------------------- Buttons */
 
-.btn-jumbotron {
+.btn-invitation {
+    margin-top: 20px;
+    margin-bottom: 40px;
     border-radius: 14px;
-    width: 25%;
+    border: 2px solid rgba(218, 218, 218, 0.815);
 }
 
 /*--------------------------------- The couple text */
@@ -235,6 +220,7 @@ ul.timeline > li:before {
 .invitation {
     text-align: center;
     margin-top: 50px;
+    font-family: 'Playfair Display', serif;
 }
 
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
