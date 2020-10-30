@@ -2,6 +2,11 @@
 
 /*--------------------------------- Background images/colors */
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
+
+html, body {
+    height: 100%;
+}
+
 .bg-home {
     background-image: url(https://images.unsplash.com/photo-1572248525872-ac574b2bf06d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80);
     height: 100%;
@@ -233,7 +238,6 @@ ul.timeline > li:before {
     text-align: center;
     margin-top: 50px;
     animation-fill-mode: forwards; 
-    padding-bottom: 150px;
 }
 
 @keyframes fadeIn {
