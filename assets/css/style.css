@@ -17,6 +17,10 @@ html, body {
     overflow-y:hidden;
 }
 
+.bg-thecouple {
+    background-color: #ffe2e2;
+}
+
 /*--------------------------------- Colors */
 
 .page-footer-bg-color {
@@ -61,11 +65,13 @@ nav {
     margin-top: 60px;
     text-align: center;
     max-width: 300px;
+    font-family: 'Vidaloka', sans-serif;
 }
 
 .title-thecouple {
     text-align: center;
     margin-top: 30px;
+    font-family: 'Vidaloka', sans-serif;
 }
 
 .bridegroom-list {
@@ -79,12 +85,14 @@ nav {
 
 .how-met {
     text-align: center;
-    max-width:
+    border-radius: 14px;
+    font-family: 'Lato', sans-serif;
 }
 
 .how-met h2 {
     margin-top: 20px;
     margin-bottom: 30px;
+    font-family: 'Vidaloka', sans-serif;
 }
 
 .bridegroom-img {
@@ -267,4 +275,18 @@ ul.timeline > li:before {
 
 .hr-invitation {
     width: 150px;
+}
+
+.map-responsive{
+    margin-bottom: 10%;
+    padding-bottom: 30%;
+    position: relative;
+    height: 0;
+}
+.map-responsive iframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
