@@ -1,11 +1,9 @@
-/*--------------------------------- Background hero image */
-/* need to update to local link of image*/
-/* https://www.freecodecamp.org/news/css-full-page-background-image-tutorial/ */
-html, body {
+/*--------------------------------- Background images/colors */
+/*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
+.bg-home {
+    background-image: url(https://images.unsplash.com/photo-1572248525872-ac574b2bf06d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80);
     height: 100%;
     width: 100%;
-    background-color: #d2e1c8;
-    /*background-image: url(https://images.unsplash.com/photo-1577789054519-b3035748df6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2651&q=80);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -235,8 +233,8 @@ ul.timeline > li:before {
 }
 
 .invitation {
-    background-color: blue;
     text-align: center;
+    margin-top: 50px;
 }
 
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
@@ -244,6 +242,6 @@ ul.timeline > li:before {
 .vertical {
     border-left: 2px solid black; 
     height: 50px; 
-    position:absolute; 
+    position:inherit; 
     left: 50%;
 }
