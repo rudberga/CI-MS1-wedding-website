@@ -9,6 +9,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    overflow-y:hidden;
 }
 
 /*--------------------------------- Colors */
@@ -212,7 +213,7 @@ ul.timeline > li:before {
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
 
 .vertical {
-    border-left: 2px solid black; 
+    border-left: 1px solid rgba(0, 0, 0, 0.226); 
     height: 50px; 
     position:inherit; 
     left: 50%;
@@ -220,6 +221,7 @@ ul.timeline > li:before {
 
 /* Fade in invitation text*/
 /* CREDIT: https://blog.hubspot.com/website/css-fade-in with adjustments by myself*/
+/* BUG fixed: white space on bottom, added padding-bottom */
 
 .invitation {
     font-family: 'Playfair Display';
@@ -257,4 +259,8 @@ ul.timeline > li:before {
 @-ms-keyframes fadeIn {
     0% {opacity:0;}
     100% {opacity:1;}
+}
+
+.hr-invitation {
+    width: 150px;
 }
