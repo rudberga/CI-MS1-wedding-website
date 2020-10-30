@@ -233,3 +233,17 @@ ul.timeline > li:before {
     padding-bottom: 40px;
     margin-bottom: 50px;
 }
+
+.invitation {
+    background-color: blue;
+    text-align: center;
+}
+
+/* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
+
+.vertical {
+    border-left: 2px solid black; 
+    height: 50px; 
+    position:absolute; 
+    left: 50%;
+}
