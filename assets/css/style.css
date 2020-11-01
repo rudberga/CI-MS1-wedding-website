@@ -7,18 +7,12 @@ html, body {
     height: 100%;
 }
 
-.bg-home {
-    background-image: url(https://images.unsplash.com/photo-1572248525872-ac574b2bf06d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80);
-    height: 100%;
-    width: 100%;
+.bg-home, .bg-thecouple {
+    background: url(https://images.unsplash.com/photo-1572248525872-ac574b2bf06d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    overflow-y:hidden;
-}
-
-.bg-thecouple {
-    background-color: #ffe2e2;
 }
 
 /*--------------------------------- Colors */
