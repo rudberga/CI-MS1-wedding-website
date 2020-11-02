@@ -12,11 +12,9 @@ Use this section to provide insight into your UX process, focusing on who this w
 
 See below user stories:
 
-> *- "As an invited guest, I expect to find all the information I need, so I can prepare for the wedding"*
+> *- "As an invited guest, I expect to find all the practical information I need, so I can prepare for the wedding"*
 
-> *- "As an invited guest, I expect that I will be able to RSVP to the invitation, so that I do not have to contact the couple directly with that info"*
-
-> *- "As an invited guest returning to the website, I expect , so that I "*
+> *- "As an invited guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to contact the couple directly for that purpose"*
 
 ### Strategy
 
@@ -61,7 +59,10 @@ Text here for **Surface** plane
 Picture here of font and description underneath
 
 **Colors**
-Picture here of colors and description underneath
+
+I have decided to go with the color palette below. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
+
+[Color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/f7539a23bb3f9be3e7a887f62ed2ccf3637aa4f6/assets/images/color-palette.png)
 
 ## Features
 
