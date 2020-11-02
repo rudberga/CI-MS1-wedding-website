@@ -17,6 +17,10 @@ html, body {
     background-size: cover;
 }
 
+.index-name {
+    font-family: 'Parisienne', cursive;
+    font-size: 5em;
+}
 /*--------------------------------- Colors */
 
 .page-footer-bg-color {
@@ -69,13 +73,14 @@ nav {
     margin-top: 60px;
     text-align: center;
     max-width: 300px;
-    font-family: 'Vidaloka', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
-.title-thecouple {
+.title-top {
     text-align: center;
     margin-top: 30px;
-    font-family: 'Vidaloka', sans-serif;
+    font-size: 4em;
+    font-family: 'Parisienne', cursive;
 }
 
 .bridegroom-list {
@@ -90,13 +95,13 @@ nav {
 .how-met {
     text-align: center;
     border-radius: 14px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .how-met h2 {
     margin-top: 20px;
     margin-bottom: 30px;
-    font-family: 'Vidaloka', sans-serif;
+    font-family: 'Parisienne', cursive;
 }
 
 .bridegroom-img {
@@ -251,7 +256,7 @@ ul.timeline > li:before {
 /* BUG fixed: white space on bottom, added padding-bottom */
 
 .invitation {
-    font-family: 'Vidaloka', serif;
+    font-family: 'Libre Franklin', sans-serif;
     color: black;
     text-transform: none;
     opacity: 0.0;
