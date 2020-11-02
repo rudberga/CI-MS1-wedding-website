@@ -24,7 +24,7 @@ html, body {
 /*--------------------------------- Colors */
 
 .page-footer-bg-color {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.712);
 }
 
 
@@ -34,7 +34,7 @@ html, body {
 nav {
     margin-right: 10px;
     font-size: 1em;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
 }
 
 .vertical-line {
@@ -149,16 +149,14 @@ nav {
 }
 
 .socials-footer {
-    float: right;
-    margin-right: 15px
+    text-align: center;
+    font-size: 1.5em;
 }
 
-.copyright-footer {
-    margin-left: 15px;
-}
-
-.copyright-footer i {
-    font-size: 1.75em;
+.socials-footer i {
+    margin-right: 7px;
+    margin-left: 7px;
+    color: #888888;
 }
 
 /*--------------------------------- Images */
