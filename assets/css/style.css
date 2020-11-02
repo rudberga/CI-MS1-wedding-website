@@ -109,6 +109,11 @@ nav {
     width: 70%;
 }
 
+.bride-groom h3 {
+    font-family: 'Parisienne', cursive;
+    font-size: 3em;
+}
+
 .img-fluid {
     max-width: 100%;
     height: auto;
