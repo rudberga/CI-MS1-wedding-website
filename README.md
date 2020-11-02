@@ -62,7 +62,7 @@ Picture here of font and description underneath
 
 I have decided to go with the color palette below. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
-[Color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/f7539a23bb3f9be3e7a887f62ed2ccf3637aa4f6/assets/images/color-palette.png)
+[Color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/f7539a23bb3f9be3e7a887f62ed2ccf3637aa4f6/assets/docs/color-palette.pdf)
 
 ## Features
 
