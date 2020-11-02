@@ -92,16 +92,16 @@ nav {
     font-size: 1.5em;
 }
 
+.how-met h2 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: 'Parisienne', cursive;
+}
+
 .how-met {
     text-align: center;
     border-radius: 14px;
     font-family: 'Libre Franklin', sans-serif;
-}
-
-.how-met h2 {
-    margin-top: 20px;
-    margin-bottom: 30px;
-    font-family: 'Parisienne', cursive;
 }
 
 .bridegroom-img {
