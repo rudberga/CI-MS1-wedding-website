@@ -240,11 +240,23 @@ nav {
     font-family: 'Parisienne', cursive;
 }
 
-/*.details-gallery img {
+.details-where-when div i {
+    font-size: 3.5em;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+.details-where-when div p {
+    font-size: 1.25em;
+}
+
+.details-gallery img {
     margin-top: 8px;
+    margin-bottom: 20px;
     vertical-align: middle;
-    width: 100%;
-}*/
+    width: 50%;
+    border: 2px solid #fff;
+}
 
 /*--------------------------------- Schedule */
 /* CREDIT: https://bootsnipp.com/snippets/xrKXW*/
