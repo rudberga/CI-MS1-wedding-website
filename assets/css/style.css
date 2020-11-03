@@ -204,13 +204,15 @@ nav {
 
 /*--------------------------------- The Details */
 
-.thedetails-top {
-    background-color: #ffe2e2c7;
-}
-
 .details-where-when {
-    margin-top: 60px;
+    margin-top: 20px;
     text-align: center;
+    border: 2px solid #f6f6f6;
+    border-radius: 14px;
+    max-width: 85%;
+    background-color: #ffe2e2c7;
+    margin-bottom: 30px;
+    max-width: 70%;
 }
 
 .details-map {
@@ -237,6 +239,12 @@ nav {
     margin-bottom: 40px;
     font-family: 'Parisienne', cursive;
 }
+
+/*.details-gallery img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}*/
 
 /*--------------------------------- Schedule */
 /* CREDIT: https://bootsnipp.com/snippets/xrKXW*/
@@ -277,7 +285,7 @@ ul.timeline > li:before {
     padding-top: 50px;
     padding-bottom: 40px;
     margin-bottom: 50px;
-    margin-top: 50px;
+    margin-top: 30px;
     max-width: 75%;
     border: 2px solid #fff;
     border-radius: 14px;
