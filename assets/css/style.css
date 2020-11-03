@@ -84,7 +84,7 @@ nav {
 }
 
 .btn-thedetails {
-    margin-top: px;
+    margin-top: 40px;
     margin-bottom: 40px;
     border-radius: 14px;
     border: 2px solid rgba(218, 218, 218, 0.815);
@@ -214,10 +214,9 @@ nav {
     text-align: center;
     border: 2px solid #f6f6f6;
     border-radius: 14px;
-    max-width: 85%;
     background-color: #ffe2e2c7;
-    margin-bottom: 30px;
-    max-width: 70%;
+    margin-bottom: 20px;
+    max-width: 75%;
 }
 
 .details-map {
@@ -232,7 +231,7 @@ nav {
     padding-bottom: 50px;
     border: 2px solid #f6f6f6;
     border-radius: 14px;
-    max-width: 85%;
+    max-width: 75%;
 }
 
 .schedule-title {
@@ -246,13 +245,14 @@ nav {
 }
 
 .details-where-when div i {
-    font-size: 3.5em;
+    font-size: 2.5em;
     margin-bottom: 25px;
     margin-top: 15px;
 }
 
 .details-where-when div p {
-    font-size: 1.25em;
+    font-size: 20px;
+    padding-bottom: 30px;
 }
 
 .details-gallery img {
@@ -301,7 +301,7 @@ ul.timeline > li:before {
     background-color: #f6f6f6ce;
     padding-top: 50px;
     padding-bottom: 40px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     margin-top: 30px;
     max-width: 75%;
     border: 2px solid #fff;
