@@ -263,6 +263,10 @@ nav {
     border: 2px solid #fff;
 }
 
+.details-howto i {
+    font-size: 30px;
+}
+
 /*--------------------------------- Schedule */
 /* CREDIT: https://bootsnipp.com/snippets/xrKXW*/
 
@@ -308,8 +312,8 @@ ul.timeline > li:before {
     border-radius: 14px;
 }
 
-.schedule-times {
-    margin-left: px;
+.timeline a {
+    color: #000;
 }
 
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
