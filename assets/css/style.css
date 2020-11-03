@@ -194,14 +194,12 @@ nav {
     color: #000;
 }
 
-/*--------------------------------- Images */
+/*--------------------------------- The Details */
 
-.text-where {
-   text-align: left;
-}
 
 .details-where-when {
     margin-top: 60px;
+    text-align: center;
 }
 
 .details-map {
@@ -210,10 +208,13 @@ nav {
 }
 
 .details-get-there {
-    background-color: #f9c4aa;
+    background-color: #ffc7c7d2;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
+    border: 2px solid #f6f6f6;
+    border-radius: 14px;
+    max-width: 85%;
 }
 
 .schedule-text {
@@ -259,10 +260,18 @@ ul.timeline > li:before {
 }
 
 .schedule-section {
-    background-color: #fff;
+    background-color: #f6f6f6ce;
     padding-top: 50px;
     padding-bottom: 40px;
     margin-bottom: 50px;
+    margin-top: 50px;
+    max-width: 75%;
+    border: 2px solid #fff;
+    border-radius: 14px;
+}
+
+.schedule-times {
+    margin-left: px;
 }
 
 /* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
