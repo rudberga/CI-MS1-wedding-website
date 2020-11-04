@@ -53,6 +53,10 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 
 ### Surface
 
+#### Main inspiration
+
+My main inspiration of the looks of the website is cherry blossoms in Japan. The reason for this is because the actual wedding will take part in Japan and it is a familiar sight for both non-Japanese and Japanese guests. 
+
 #### Fonts
 
 I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
