@@ -54,7 +54,11 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 Text here for **Surface** plane
 
 **Fonts**
-Picture here of font and description underneath
+I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne Display**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
+
+**Parisienne Display** - A more elegant font fitting for a wedding, this is used on titles on top of pages and sections of a page. The reason for not using this throughout the website is because it is difficult to read in smaller font sizes.
+
+**Libre Franklin** - Acts as the font that cuts off from the elegant title and showing the information on the website in a clear an minimal matter. This font is used in descriptions and details of the website.
 
 **Colors**
 
