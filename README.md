@@ -51,9 +51,7 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 
 ### Surface
 
-Text here for **Surface** plane
-
-### Fonts
+#### Fonts
 
 I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
 
@@ -65,7 +63,7 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 **Libre Franklin** - Acts as the font that cuts off from the elegant title and showing the information on the website in a clear an minimal matter. This font is used in descriptions and details of the website.
 
-### Colors
+#### Colors
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
@@ -73,7 +71,6 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
 - Feature 1 - RSVP - allows guests to inform if they are coming to the wedding, by filling out a form
@@ -149,8 +146,19 @@ In order to deploy my website I used GitHub pages. The deployment was made from 
 ### Running my project locally
 
 In order to run the project locally you should firstly enter my repository by the link https://github.com/rudberga/CI-MS1-wedding-website.
+ 
+1. Click the button **Code**
+2. Choose either **HTTPS**, **SSH** or **GitHub CLI**, then click the copy icon to the right of the link
+3. You will then open the terminal in your IDE
+4. Type `git clone` and then paste the URL you copied
+5. Press **Enter** and you will have created a local clone
 
-You will now have the option to clone my code by pressing the button **Code** and then choose which way works best for you. 
+You could also have it open directly in Gitpod if you are using it, see below:
+
+1. Open the repository https://github.com/rudberga/CI-MS1-wedding-website
+2. Click the green **Gitpod** button 
+3. Gitpod will now open up a new workspace with the code from this project
+
 
 ## Credits
 
