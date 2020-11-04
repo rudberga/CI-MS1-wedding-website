@@ -53,7 +53,7 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 
 Text here for **Surface** plane
 
-**Fonts**
+### Fonts
 
 I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
 
@@ -65,7 +65,7 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 **Libre Franklin** - Acts as the font that cuts off from the elegant title and showing the information on the website in a clear an minimal matter. This font is used in descriptions and details of the website.
 
-**Colors**
+### Colors
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
