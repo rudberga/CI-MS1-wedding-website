@@ -12,9 +12,11 @@ This website will work as the invitation and information page for a wedding. The
 
 See below user stories:
 
-> *- "As an invited guest, I expect to find all the practical information I need, so I can prepare for the wedding"*
+> *- "As a guest, I expect to find all the practical information I need, so I can prepare for the wedding"*
 
-> *- "As an invited guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to contact the couple directly for that purpose"*
+> *- "As a guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to contact the couple directly for that purpose"*
+
+> *- "As a guest, I expect to find out more information about the couple who are getting married, so I can learn more about them"*
 
 ### Strategy
 
@@ -50,6 +52,10 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 - RSVP
 
 ### Surface
+
+#### Main inspiration
+
+My main inspiration of the looks of the website is cherry blossoms in Japan. The reason for this is because the actual wedding will take part in Japan and it is a familiar sight for both non-Japanese and Japanese guests. 
 
 #### Fonts
 
