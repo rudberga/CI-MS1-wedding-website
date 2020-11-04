@@ -116,15 +116,20 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+In order to deploy my website I used GitHub pages. The deployment was made from the master branch and I did it through below steps:
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+ 1. Enter GitHub website and log in
+ 2. Go to my GitHub repository called **CI-MS1-wedding-website**
+ 3. Press **settings**
+ 4. Scroll down to GitHub Pages section
+ 5. Choose the "master branch" under **Source** and "/ (root)" under **Select folder**
+ 6. Press **save** and the website is deployed under the domain https://rudberga.github.io/CI-MS1-wedding-website/
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+### Running my project locally
 
+In order to run the project locally you should firstly enter my repository by the link https://github.com/rudberga/CI-MS1-wedding-website.
+
+You will now have the option to clone my code by pressing the button **Code** and then choose which way works best for you. 
 
 ## Credits
 
