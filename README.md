@@ -163,11 +163,22 @@ You could also have it open directly in Gitpod if you are using it, see below:
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text on all the pages of the whole website was written by myself
 
 ### Media
-- The photos used in this site were obtained from ...
+- Almost all of the images on this website was imported from [Unsplash](https://unsplash.com/)
+- Images of the couple are taken by myself
+
+### Code
+
+I have modified these code snippets in order for them to work in my project.
+- Getting the background images to cover the whole page, whatever screen size: [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/*/)
+- Hover effect over social media buttons and other buttons: [Ian Lunn](https://ianlunn.github.io/Hover/#effects*/)
+- Timeline for the schedule: [Bootsnipp](https://bootsnipp.com/snippets/xrKXW*/)
+- Fade in effect on first page: [Blog Hubspot](https://blog.hubspot.com/website/css-fade-in)
+- Navbar transparent with background image behind it: [Stack Overflow](https://stackoverflow.com/questions/48909639/transparent-navbar-over-background-image)
+- Properly centering my form in RSVP: [Fluffed Vision](https://fluffedvision.com/centre-a-form-using-bootstrap-4-native-controls/)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from several other wedding websites I have seen while doing research on this project 
