@@ -60,10 +60,14 @@ nav {
 
 .navbar-nav{
     float: right!important;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .navbar-toggler {
     border: none;
+    margin-top: 20px;
+    margin-right: 15px;
 }
 
 /*--------------------------------- Buttons */
