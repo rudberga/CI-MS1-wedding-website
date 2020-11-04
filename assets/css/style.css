@@ -215,7 +215,7 @@ nav {
     border: 2px solid #f6f6f6;
     border-radius: 14px;
     background-color: #ffe2e2c7;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     max-width: 75%;
 }
 
@@ -316,8 +316,6 @@ ul.timeline > li:before {
 .timeline a {
     color: #000;
 }
-
-/* CREDIT vertical line: https://www.geeksforgeeks.org/how-to-make-a-vertical-line-using-html*/
 
 .vertical {
     border-left: 1px solid rgba(0, 0, 0, 0.226); 
