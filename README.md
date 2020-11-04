@@ -1,6 +1,8 @@
 <h1 align="center">Wedding Website</h1> 
 
-Milestone 1 project - Full Stack Web Developer course - Code Institute 
+![Mockup devices](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/devices.png?raw=true "Mockup devices")
+
+**Milestone 1 project - Full Stack Web Developer course - Code Institute** 
 
 This website will work as the invitation and information page for a wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
  
