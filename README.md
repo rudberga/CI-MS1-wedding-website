@@ -51,16 +51,19 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 
 ### Surface
 
-Text here for **Surface** plane
+#### Fonts
 
-**Fonts**
-I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne Display**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
+I have decided to go with a combination of the fonts **Libre Franklin** and **Parisienne**. The reason for choosing this style of combination is because I got inspired by several wedding websites I took inspiration from, it seems to be a common trait to mix a elegant font with a minimal font.
 
-**Parisienne Display** - A more elegant font fitting for a wedding, this is used on titles on top of pages and sections of a page. The reason for not using this throughout the website is because it is difficult to read in smaller font sizes.
+![Parisienne](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/parisienne.png?raw=true "Parisienne font")
+
+**Parisienne** - A more elegant font fitting for a wedding, this is used on titles on top of pages and sections of a page. The reason for not using this throughout the website is because it is difficult to read in smaller font sizes.
+
+![Libre Franklin](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/librefranklin.png?raw=true "Libre Franklin font")
 
 **Libre Franklin** - Acts as the font that cuts off from the elegant title and showing the information on the website in a clear an minimal matter. This font is used in descriptions and details of the website.
 
-**Colors**
+#### Colors
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
@@ -68,17 +71,19 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - RSVP - allows guests to inform if they are coming to the wedding, by filling out a form
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- **RSVP**: allows guests to inform if they are coming to the wedding, by simply filling out a form
+- **Navbar header**: collapsed navbar on landing page to keep the elegant touch on all screen sizes, expanded on the rest of the pages for easy navigation
+- **Social links**: in the footer you will find the icons for ways to contact the couple, this shows up on all pages except the landing page
+- **Details page**: including all information needed for guests before the wedding
+- **Timeline**: minimal timeline for guests to see the schedule of the wedding
+- **Couple page**: fun page for guests to get to know the couple a little more
+- **Buttons**: buttons in the end of each page for a natural navigation forward in the flow of the website, on landing page you go straight to RSVP
 
 ### Features Left to Implement
-- Another feature idea
+- **Gallery**: might add gallery in future of maybe the couple or the destination where the wedding is at
+- **Gift list**: might add list of what the couple might want for their wedding gifts
 
 ## Technologies Used
 
@@ -93,8 +98,22 @@ In addition, you may also use this section to discuss plans for additional featu
 **Frameworks**
 
 - [Bootstrap](https://getbootstrap.com/)
-    - Connected to HTML via CDN. Main framework for the website in order to improve the structure of the website
+    - Main framework for the website in order to improve the structure of the website. Connected to HTML via CDN
 
+**Other**
+
+- [Gitpod](https://gitpod.io/)
+   - IDE which was used for the project. Directly linked through GitHub and extension on web browser
+
+- [Google Fonts](https://fonts.google.com/)
+   - Used for all the fonts in the project. Connected to CSS via @import
+   
+- [Font Awesome](https://fontawesome.com/)
+   - Used for all the icons in the project. Connected to HTML via CDN
+
+- [Unsplash](https://unsplash.com/)
+   - Used for all the images in the project. Imported to html via <img>
+   
 
 ## Testing 
 
@@ -130,17 +149,39 @@ In order to deploy my website I used GitHub pages. The deployment was made from 
 ### Running my project locally
 
 In order to run the project locally you should firstly enter my repository by the link https://github.com/rudberga/CI-MS1-wedding-website.
+ 
+1. Click the button **Code**
+2. Choose either **HTTPS**, **SSH** or **GitHub CLI**, then click the copy icon to the right of the link
+3. You will then open the terminal in your IDE
+4. Type `git clone` and then paste the URL you copied
+5. Press **Enter** and you will have created a local clone
 
-You will now have the option to clone my code by pressing the button **Code** and then choose which way works best for you. 
+You could also have it open directly in Gitpod if you are using it, see below:
+
+1. Open the repository https://github.com/rudberga/CI-MS1-wedding-website
+2. Click the green **Gitpod** button 
+3. Gitpod will now open up a new workspace with the code from this project
+
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text on all the pages of the whole website was written by myself
 
 ### Media
-- The photos used in this site were obtained from ...
+- Almost all of the images on this website was imported from [Unsplash](https://unsplash.com/)
+- Images of the couple are taken by myself
+
+### Code
+
+I have modified these code snippets in order for them to work in my project.
+- Getting the background images to cover the whole page, whatever screen size: [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/*/)
+- Hover effect over social media buttons and other buttons: [Ian Lunn](https://ianlunn.github.io/Hover/#effects*/)
+- Timeline for the schedule: [Bootsnipp](https://bootsnipp.com/snippets/xrKXW*/)
+- Fade in effect on first page: [Blog Hubspot](https://blog.hubspot.com/website/css-fade-in)
+- Navbar transparent with background image behind it: [Stack Overflow](https://stackoverflow.com/questions/48909639/transparent-navbar-over-background-image)
+- Properly centering my form in RSVP: [Fluffed Vision](https://fluffedvision.com/centre-a-form-using-bootstrap-4-native-controls/)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from several other wedding websites I have seen while doing research on this project 
