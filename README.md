@@ -56,9 +56,9 @@ Picture here of font and description underneath
 
 **Colors**
 
-I have decided to go with the color palette below. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
+I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
-[Color palette](/assets/docs/color-palette.pdf)
+![color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/Color%20Palette%20206792.png?raw=true "Color Palette")
 
 ## Features
 
