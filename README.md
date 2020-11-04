@@ -98,8 +98,22 @@ In addition, you may also use this section to discuss plans for additional featu
 **Frameworks**
 
 - [Bootstrap](https://getbootstrap.com/)
-    - Connected to HTML via CDN. Main framework for the website in order to improve the structure of the website
+    - Main framework for the website in order to improve the structure of the website. Connected to HTML via CDN
 
+**Other**
+
+- [Gitpod](https://gitpod.io/)
+   - IDE which was used for the project. Directly linked through GitHub and extension on web browser
+
+- [Google Fonts](https://fonts.google.com/)
+   - Used for all the fonts in the project. Connected to CSS via @import
+   
+- [Font Awesome](https://fontawesome.com/)
+   - Used for all the icons in the project. Connected to HTML via CDN
+
+- [Unsplash](https://unsplash.com/)
+   - Used for all the images in the project. Imported to html via <img>
+   
 
 ## Testing 
 
