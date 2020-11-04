@@ -73,14 +73,17 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
  
 ### Existing Features
-- Feature 1 - RSVP - allows guests to inform if they are coming to the wedding, by filling out a form
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- **RSVP**: allows guests to inform if they are coming to the wedding, by simply filling out a form
+- **Navbar header**: collapsed navbar on landing page to keep the elegant touch on all screen sizes, expanded on the rest of the pages for easy navigation
+- **Social links**: in the footer you will find the icons for ways to contact the couple, this shows up on all pages except the landing page
+- **Details page**: including all information needed for guests before the wedding
+- **Timeline**: minimal timeline for guests to see the schedule of the wedding
+- **Couple page**: fun page for guests to get to know the couple a little more
+- **Buttons**: buttons in the end of each page for a natural navigation forward in the flow of the website, on landing page you go straight to RSVP
 
 ### Features Left to Implement
-- Another feature idea
+- **Gallery**: might add gallery in future of maybe the couple or the destination where the wedding is at
+- **Gift list**: might add list of what the couple might want for their wedding gifts
 
 ## Technologies Used
 
