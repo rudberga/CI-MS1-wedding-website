@@ -5,8 +5,6 @@ Milestone 1 project - Full Stack Web Developer course - Code Institute
 This website will work as the invitation and information page for a wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
  
 ## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### User Stories
 
@@ -37,11 +35,9 @@ The features of this website will let the users:
 
 ### Structure
 
-Text here for **Structure** plane
+I wanted to focus mainly on the simplicity and elegance of a wedding website. Therefore ending up with a minimal website which have the pages Home, The Couple, The Details as well as RSVP. 
 
 ### Skeleton
-
-Text here for **Skeleton** plane
 
 [Wireframe](https://github.com/rudberga/CI-MS1-wedding-website/blob/a019ce35133a506a45443ff541ea1d9b643e79aa/assets/docs/ms1-wireframe.pdf)
 
@@ -94,7 +90,7 @@ In addition, you may also use this section to discuss plans for additional featu
     - Connected to HTML via CDN. Main framework for the website in order to improve the structure of the website
 
 
-## Testing
+## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
