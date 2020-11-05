@@ -365,7 +365,7 @@ nav {
   background-size: 4px 4px;
   color: #000;
   text-decoration: none;
-  transition: background-size .2s;
+  transition: background-size .6s;
 }
 
 .details-schedule a:hover {
