@@ -177,6 +177,11 @@ nav {
     font-family: 'Libre Franklin', sans-serif;
 }
 
+.rsvp-form-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
 .rsvp-form {
     margin-top: 20px;
     width: 50%;
