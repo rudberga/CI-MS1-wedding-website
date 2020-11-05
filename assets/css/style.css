@@ -394,3 +394,35 @@ ul.timeline > li:before {
     width: 100%;
     position: absolute;
 }
+
+/*--------------------------------- New Schedule test*/
+
+:root {
+  --mainColor: #ffc7c7;
+}
+
+.details-schedule {
+  align-items: center;
+  display: flex;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 16px;
+  justify-content: center;
+}
+
+.details-schedule a {
+  background:
+     linear-gradient(
+       to bottom, var(--mainColor) 0%,
+       var(--mainColor) 100%
+     );
+background-position: 0 100%;
+background-repeat: repeat-x;
+background-size: 4px 4px;
+  color: #000;
+  text-decoration: none;
+  transition: background-size .2s;
+}
+
+.details-schedule a:hover {
+  background-size: 4px 50px;
+}
