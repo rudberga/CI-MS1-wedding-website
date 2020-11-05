@@ -65,7 +65,7 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 **Parisienne** - A more elegant font fitting for a wedding, this is used on titles on top of pages and sections of a page. The reason for not using this throughout the website is because it is difficult to read in smaller font sizes.
 
-![Libre Franklin](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/librefranklin.png?raw=true "Libre Franklin font")
+![Libre Franklin](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/libre-franklin.png?raw=true "Libre Franklin font")
 
 **Libre Franklin** - Acts as the font that cuts off from the elegant title and showing the information on the website in a clear an minimal matter. This font is used in descriptions and details of the website.
 
@@ -73,7 +73,7 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
-![color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/Color%20Palette%20206792.png?raw=true "Color Palette")
+![color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
 
 ## Features
 
