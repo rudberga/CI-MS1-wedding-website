@@ -70,6 +70,13 @@ nav {
     margin-right: 15px;
 }
 
+@media only screen and (max-width: 600px) {
+    .navbar-toggler {
+        margin-top: 15px;
+        margin-right: 0px;
+    }
+}
+
 /*--------------------------------- Buttons */
 
 .btn-invitation {
@@ -369,7 +376,6 @@ nav {
     border-left: 1px solid rgba(0, 0, 0, 0.226); 
     height: 50px; 
     position:inherit; 
-    left: 50%;
 }
 
 /* Fade in invitation text*/
