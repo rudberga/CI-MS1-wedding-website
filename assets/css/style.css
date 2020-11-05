@@ -249,6 +249,8 @@ nav {
 .schedule-title {
     text-align: center;
     font-family: 'Parisienne', cursive;
+    margin-bottom: 30px;
+    font-size: 40px;
 }
 
 .details-get-there h1 {
@@ -396,7 +398,7 @@ ul.timeline > li:before {
 }
 
 /*--------------------------------- New Schedule test*/
-
+/* CREDIT for hovering effect: https://css-tricks.com/having-fun-with-link-hover-effects/*/
 :root {
   --mainColor: #ffc7c7;
 }
