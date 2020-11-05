@@ -188,6 +188,12 @@ nav {
     padding: 25px 25px 25px 25px;
 }
 
+@media only screen and (max-width: 600px) {
+    .rsvp-form {
+        width: 80%;
+    }
+}
+
 
 /*--------------------------------- Footer */
 
