@@ -96,6 +96,13 @@ nav {
     font-size: 18px;
 }
 
+.btn-rsvp {
+    border-radius: 14px;
+    border: 2px solid #aaaaaa;
+    background-color: #f6f6f6; 
+    color: #000;
+}
+
 /*--------------------------------- The couple text */
 
 .bride-groom {
