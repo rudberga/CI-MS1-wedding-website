@@ -282,11 +282,18 @@ nav {
     }
 }
 
-.schedule-title {
+.schedule-section {
     text-align: center;
     font-family: 'Parisienne', cursive;
     margin-bottom: 30px;
     font-size: 40px;
+}
+
+.schedule-times {
+    text-align: center;
+    border-radius: 14px;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-bottom: 15px;
 }
 
 .details-get-there h1 {
@@ -335,10 +342,6 @@ nav {
     .schedule-section {
         max-width: 90%;
     }
-}
-
-.timeline a {
-    color: #000;
 }
 
 /* CREDIT for hovering effect: https://css-tricks.com/having-fun-with-link-hover-effects/*/
