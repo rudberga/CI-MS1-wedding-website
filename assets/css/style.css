@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Vidaloka&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Parisienne&display=swap');
 
 /*--------------------------------- Background images */
-
 
 html, body {
     height: 100%;
@@ -11,7 +9,7 @@ html, body {
 /*CREDIT Full Background:https://css-tricks.com/perfect-full-page-background-image/*/
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
 .bg-home, .bg-thecouple {
-    background: url(assets/img/cherry-index-thecouple.jpg) no-repeat center center fixed; 
+    background: url(/assets/img/cherry-index-thecouple.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,6 +105,51 @@ nav {
     font-size: 5em;
 }
 
+/* Fade in invitation text*/
+/* CREDIT: https://blog.hubspot.com/website/css-fade-in with adjustments by myself*/
+/* BUG fixed: white space on bottom, added padding-bottom */
+
+.invitation {
+    font-family: 'Libre Franklin', sans-serif;
+    color: black;
+    text-transform: none;
+    opacity: 0.0;
+    animation: fadeIn ease 4s;
+    -webkit-animation: fadeIn ease 4s;
+    text-align: center;
+    margin-top: 50px;
+    animation-fill-mode: forwards; 
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+.hr-invitation {
+    width: 150px;
+}
+
 /*--------------------------------- The couple text */
 
 .bride-groom {
@@ -176,7 +219,6 @@ nav {
 
 /*--------------------------------- RSVP */
 
-
 .rsvp-title {
     text-align: center;
     margin-top: 30px;
@@ -210,7 +252,6 @@ nav {
         width: 80%;
     }
 }
-
 
 /*--------------------------------- Footer */
 
@@ -275,6 +316,20 @@ nav {
     
 }
 
+.map-responsive{
+    margin-bottom: 10%;
+    padding-bottom: 30%;
+    position: relative;
+    height: 0;
+}
+.map-responsive iframe{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
 .details-get-there {
     background-color: #ffc7c7d2;
     text-align: center;
@@ -289,20 +344,6 @@ nav {
     .details-get-there {
         max-width: 90%;
     }
-}
-
-.schedule-section {
-    text-align: center;
-    font-family: 'Parisienne', cursive;
-    margin-bottom: 30px;
-    font-size: 40px;
-}
-
-.schedule-times {
-    text-align: center;
-    border-radius: 14px;
-    font-family: 'Libre Franklin', sans-serif;
-    margin-bottom: 15px;
 }
 
 .details-get-there h1 {
@@ -345,12 +386,22 @@ nav {
     max-width: 75%;
     border: 2px solid #fff;
     border-radius: 14px;
+    text-align: center;
+    font-family: 'Parisienne', cursive;
+    font-size: 40px;
 }
 
 @media only screen and (max-width: 600px) {
     .schedule-section {
         max-width: 90%;
     }
+}
+
+.schedule-times {
+    text-align: center;
+    border-radius: 14px;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-bottom: 15px;
 }
 
 /* CREDIT for hovering effect: https://css-tricks.com/having-fun-with-link-hover-effects/*/
@@ -389,63 +440,3 @@ nav {
     height: 50px; 
     position:inherit; 
 }
-
-/* Fade in invitation text*/
-/* CREDIT: https://blog.hubspot.com/website/css-fade-in with adjustments by myself*/
-/* BUG fixed: white space on bottom, added padding-bottom */
-
-.invitation {
-    font-family: 'Libre Franklin', sans-serif;
-    color: black;
-    text-transform: none;
-    opacity: 0.0;
-    animation: fadeIn ease 4s;
-    -webkit-animation: fadeIn ease 4s;
-    text-align: center;
-    margin-top: 50px;
-    animation-fill-mode: forwards; 
-}
-
-@keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-
-@-moz-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-
-@-webkit-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-
-@-o-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-
-@-ms-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-}
-
-.hr-invitation {
-    width: 150px;
-}
-
-.map-responsive{
-    margin-bottom: 10%;
-    padding-bottom: 30%;
-    position: relative;
-    height: 0;
-}
-.map-responsive iframe{
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
-
