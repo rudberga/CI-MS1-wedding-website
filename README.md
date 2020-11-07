@@ -181,13 +181,14 @@ You could also have it open directly in Gitpod if you are using it, see below:
 ### Code
 
 I have modified these code snippets in order for them to work in my project.
-- Getting the background images to cover the whole page, whatever screen size: [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/*/)
-- Hovering effect over social media buttons and other buttons: [Ian Lunn](https://ianlunn.github.io/Hover/#effects*/)
-- Hovering effect on timeline schedule: [CSS Tricks](https://css-tricks.com/having-fun-with-link-hover-effects/)
+- Getting the background images to cover the whole page, whatever screen size: [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image)
+- Hovering effect over social media buttons and other buttons: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
+- Hovering effect on timeline schedule: [CSS Tricks](https://css-tricks.com/having-fun-with-link-hover-effects)
 - Fade in effect on first page: [Blog Hubspot](https://blog.hubspot.com/website/css-fade-in)
 - Navbar transparent with background image behind it: [Stack Overflow](https://stackoverflow.com/questions/48909639/transparent-navbar-over-background-image)
-- Properly centering my form in RSVP: [Fluffed Vision](https://fluffedvision.com/centre-a-form-using-bootstrap-4-native-controls/)
+- Properly centering my form in RSVP: [Fluffed Vision](https://fluffedvision.com/centre-a-form-using-bootstrap-4-native-controls)
 
 ### Acknowledgements
 
 - I received inspiration for this project from several other wedding websites I have seen while doing research on this project 
+- I want to thank my mentor Nishant Kumar for the support throghout the project
