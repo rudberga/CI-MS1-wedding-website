@@ -11,7 +11,7 @@ html, body {
 /*CREDIT Full Background:https://css-tricks.com/perfect-full-page-background-image/*/
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
 .bg-home, .bg-thecouple {
-    background: url(/assets/img/cherry-index-thecouple.jpg) no-repeat center center fixed; 
+    background: url(assets/img/cherry-index-thecouple.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -20,7 +20,7 @@ html, body {
 
 /*CREDIT Image:https://unsplash.com/photos/14cHwhRKJh8*/
 .bg-thedetails {
-    background: url(/assets/img/cherry-thedetails.jpeg) no-repeat center center fixed; 
+    background: url(/assets/img/cherry-thedetails.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -29,7 +29,7 @@ html, body {
 
 /*CREDIT Image:https://unsplash.com/photos/7TzQ7l3lDAY*/
 .bg-rsvp {
-    background: url(/assets/img/cherry-rsvp.jpeg) no-repeat center center fixed; 
+    background: url(/assets/img/cherry-rsvp.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
