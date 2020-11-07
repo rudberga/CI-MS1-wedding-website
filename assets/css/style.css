@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Vidaloka&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Parisienne&display=swap');
 
-/*--------------------------------- Background images/colors */
-/*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
+/*--------------------------------- Background images */
+
 
 html, body {
     height: 100%;
 }
 
-/*CREDIT Background:https://css-tricks.com/perfect-full-page-background-image/*/
+/*CREDIT Full Background:https://css-tricks.com/perfect-full-page-background-image/*/
+/*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
 .bg-home, .bg-thecouple {
     background: url(https://images.unsplash.com/photo-1572248525872-ac574b2bf06d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -17,6 +18,7 @@ html, body {
     background-size: cover;
 }
 
+/*CREDIT Image:https://unsplash.com/photos/14cHwhRKJh8*/
 .bg-thedetails {
     background: url(https://images.unsplash.com/photo-1522518961115-07c922089dd4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -25,6 +27,7 @@ html, body {
     background-size: cover;
 }
 
+/*CREDIT Image:https://unsplash.com/photos/7TzQ7l3lDAY*/
 .bg-rsvp {
     background: url(https://images.unsplash.com/photo-1521515428649-7f27b37d88f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -32,18 +35,6 @@ html, body {
     -o-background-size: cover;
     background-size: cover;
 }
-
-.index-name {
-    font-family: 'Parisienne', cursive;
-    font-size: 5em;
-}
-/*--------------------------------- Colors */
-
-.page-footer-bg-color {
-    background-color: rgba(255, 255, 255, 0.712);
-}
-
-
 
 /*--------------------------------- Navbar */
 
@@ -53,8 +44,7 @@ nav {
     font-family: 'Libre Franklin', sans-serif;
 }
 
-.vertical-line {
-    /*border-left: 1.5px solid rgb(26, 26, 26);*/
+.navbar-items-margin {
     margin-right: 14px
 }
 
@@ -108,6 +98,13 @@ nav {
     border: 2px solid #aaaaaa;
     background-color: #f6f6f6; 
     color: #000;
+}
+
+/*--------------------------------- index.html */
+
+.index-name {
+    font-family: 'Parisienne', cursive;
+    font-size: 5em;
 }
 
 /*--------------------------------- The couple text */
@@ -219,6 +216,10 @@ nav {
 
 .page-footer {
     height: 40px;
+}
+
+.page-footer-bg-color {
+    background-color: rgba(255, 255, 255, 0.712);
 }
 
 .socials-footer {
