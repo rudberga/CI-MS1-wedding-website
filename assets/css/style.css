@@ -162,7 +162,7 @@ nav {
     height: auto;
 }
 
-.thecouple-bg {
+.thecouple-section {
     background-color: #ffe2e2b2;
     border: 2px solid #f6f6f6;
     border-radius: 14px;
@@ -172,12 +172,20 @@ nav {
 }
 
 @media only screen and (max-width: 600px) {
-    .thecouple-bg {
+    .thecouple-section {
         max-width: 90%;
     }
 }
 
 /*--------------------------------- RSVP */
+
+
+.rsvp-title {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 4em;
+    font-family: 'Parisienne', cursive;
+}
 
 .rsvp-title-bottom {
     text-align: center;
