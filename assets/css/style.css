@@ -18,8 +18,8 @@
 
 @media only screen and (max-width: 768px) {
 /* For mobile phones: */
-    .bg-home, .bg-thecouple {
-        background-image: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/628df00d116f7b4438ab5f6378621086a072403e/assets/img/cherry-index-thecouple-mobile.jpg);
+    .bg-thecouple {
+        background-image: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/cherry-index-thecouple-mobile.jpg?raw=true);
         background-size: cover;
         border-image-repeat: no-repeat;
     }
