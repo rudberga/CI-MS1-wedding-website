@@ -20,6 +20,8 @@ See below user stories:
 
 > *- "As a guest, I expect to find out more information about the couple who are getting married, so I can learn more about them"*
 
+> *- "As a guest, I expect to find contact information or social links to the couple, so I can contact them with questions"*
+
 ### Strategy
 
 The main goal for this website is for it to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. This will be displayed in a user friendly, minimal and beautifully designed way. The website will also act as a platform for the couple where they will be able to see how many guests are coming as well as other requests.
@@ -150,6 +152,7 @@ I have done a lot of testing throughout the project and below you will find it i
 | RSVP Form 3 | Entered "RSVP" via navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
 | RSVP Form 4 | Entered "RSVP" via navbar, filled in nothing, did not let me press send as it has required fields, starting with "Full Name" | Passed |
 | RSVP Form 5 | Entered "RSVP" via navbar, filled in all fields except "E-mail", did not let me press send as it is a required field | Passed |
+| Social links footer 1 | Entered each page that has footer, hovered over each social links and pressed, did lead me to social websites in a new tab (e-mail not linked as there is no wedding e-mail yet) | Passed |
 | Schedule 1 | Entered "The Details" via navbar, scroll down to "Schedule of the day", hovered over links to locations and effect appeared changing background color | Passed |
 | Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites via a new tab in your browser | Passed |
 | Responsiveness 1 | Used inspector via Google Chrome DevTools, tested different mobile prefixed formats as well as free responsivness based on screen sizes, in order to see that content lined up correctly no matter screen size | Passed |
