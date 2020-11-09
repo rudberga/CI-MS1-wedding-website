@@ -123,7 +123,7 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 ## Testing 
 
-### Tests
+### Tests done in order to secure user stories
 
 | Test | Method | Result |
 | ---- | ------ | ------ |
@@ -142,6 +142,8 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 | Bug | Solution | Current status |
 | --- | -------- | -------------- |
+| White space stuck on bottom after footer on all devices | Added padding-bottom on background image | Solved |
+| Empty space to the right on index.html and rsvp.html which makes it not look centered when on mobile | **index.html**: Removed left 50% position of vertical line, which made it push the page width and gave a space to the right. Found through inspect chrome. **rsvp.html**: Removed margin left and right from .row. It made so the screen width was over 100%, therefore making a space to the right. Found through inspect chrome. | Solved |
 
 ### Browser and screen size compatibility
 
