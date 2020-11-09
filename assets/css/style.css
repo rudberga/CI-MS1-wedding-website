@@ -2,9 +2,9 @@
 
 /*--------------------------------- Background images */
 
-/*html, body {
+html, body {
     height: 100%;
-}*/
+}
 
 /*CREDIT Full Background:https://css-tricks.com/perfect-full-page-background-image/*/
 /*CREDIT Image:https://unsplash.com/photos/TCl6He6cjY4*/
@@ -23,16 +23,6 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-}
-
-@media only screen and (max-width: 700px) {
-    .bg-thedetails {
-        background: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/cherry-thedetails-mobile.jpg?raw=true) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    }
 }
 
 /*CREDIT Image:https://unsplash.com/photos/7TzQ7l3lDAY*/
