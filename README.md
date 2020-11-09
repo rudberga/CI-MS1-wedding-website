@@ -75,6 +75,13 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
+Color codes in same order as on the color palette image below:
+
+- #f6f6f6 
+- #ffe2e2
+- #ffc7c7
+- #aaaaaa
+
 ![color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
 
 ## Features
@@ -150,18 +157,6 @@ I have decided to go with the color palette below which focus on pastel pink, of
 ### Browser and screen size responsiveness
 
 Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
-
-### Lighthouse reports
-
-See below reports from Lighthouse:
-
-#### index.html
-
-#### thecouple.html
-
-#### thedetails.html
-
-#### rsvp.html
 
 ## Deployment
 
