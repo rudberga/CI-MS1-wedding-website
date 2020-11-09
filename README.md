@@ -171,8 +171,9 @@ Pushed my HTML code through the validator and got following messages which I cor
 
 | Message | Solution |
 | ------- | ----- |
-| Section lacks heading | Added <h1> instead of <p> for the title in the section|
+| Section lacks heading | Added h1 instead of p for the title in the section|
 | Bad value button for attribute type on element a: Subtype missing. | Removed type="button"|
+| The frameborder attribute on the iframe element is obsolete. | Removed framborder as it was 0 and not needed |
 
 ### [CSS Validator](https://jigsaw.w3.org/css-validator)
 
