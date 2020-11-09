@@ -5,6 +5,8 @@
 <p align="center"><strong>Milestone 1 project - Full Stack Web Developer course - Code Institute</strong></p>
 
 This website will work as the invitation and information page for a wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
+
+[Link to deployed website!](https://rudberga.github.io/CI-MS1-wedding-website/index.html)
  
 ## UX
 
@@ -73,6 +75,13 @@ I have decided to go with a combination of the fonts **Libre Franklin** and **Pa
 
 I have decided to go with the color palette below which focus on pastel pink, off white and gray. This matches the elegance of the wedding theme, as well as the cherry blossom and Japan inspiration the website has.
 
+Color codes in same order as on the color palette image below:
+
+- #f6f6f6 
+- #ffe2e2
+- #ffc7c7
+- #aaaaaa
+
 ![color palette](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
 
 ## Features
@@ -123,7 +132,7 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 ## Testing 
 
-### Tests
+### Tests done in order to secure user stories
 
 | Test | Method | Result |
 | ---- | ------ | ------ |
@@ -135,16 +144,30 @@ I have decided to go with the color palette below which focus on pastel pink, of
 | RSVP Form 3 | Entered "RSVP" via navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
 | RSVP Form 4 | Entered "RSVP" via navbar, filled in nothing, did not let me press send as it has required fields, starting with "Full Name" | Passed |
 | Schedule 1 | Entered "The Details" via navbar, scroll down to "Schedule of the day", hovered over links to locations and effect appeared changing background color | Passed |
-| Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites | Passed |
+| Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites via a new tab in your browser | Passed |
 | Responsiveness 1 | Used inspector via Google Chrome DevTools, tested different mobile prefixed formats as well as free responsivness based on screen sizes, in order to see that content lined up correctly no matter screen size | Passed |
 
 ### Bugs
 
 | Bug | Solution | Current status |
 | --- | -------- | -------------- |
+| White space stuck on bottom after footer on all devices | Made background image cover whole page | Solved |
+| Empty space to the right on index.html and rsvp.html which makes content look un-centered when on mobile or scrolling to the right on desktop | **index.html**: Removed left 50% position of vertical line, which made it push the page width and gave a space to the right. Found through inspect chrome. **rsvp.html**: Removed margin left and right from .row. It made so the screen width was over 100%, therefore making a space to the right. Found through inspect chrome. | Solved |
 
-### Browser and screen size compatibility
+### Browser and screen size responsiveness
 
+Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
+
+### HTML Validator - Tested through https://validator.w3.org
+
+Pushed my HTML code through the validator and got following messages which I corrected:
+
+| Message | Solution |
+| ------- | ----- |
+| Section lacks heading | Added class "rsvp" to identify the section |
+| Bad value button for attribute type on element a: Subtype missing. | Added one type="button" which had been missed|
+
+### CSS Validator - Tested through https://jigsaw.w3.org/css-validator
 
 ## Deployment
 
