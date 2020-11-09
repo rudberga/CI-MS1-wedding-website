@@ -142,11 +142,14 @@ I have decided to go with the color palette below which focus on pastel pink, of
 
 | Bug | Solution | Current status |
 | --- | -------- | -------------- |
-| White space stuck on bottom after footer on all devices | Added padding-bottom on background image | Solved |
-| Empty space to the right on index.html and rsvp.html which makes it not look centered when on mobile | **index.html**: Removed left 50% position of vertical line, which made it push the page width and gave a space to the right. Found through inspect chrome. **rsvp.html**: Removed margin left and right from .row. It made so the screen width was over 100%, therefore making a space to the right. Found through inspect chrome. | Solved |
+| White space stuck on bottom after footer on all devices | Made background image cover whole page | Solved |
+| Empty space to the right on index.html and rsvp.html which makes content look un-centered when on mobile or scrolling to the right on desktop | **index.html**: Removed left 50% position of vertical line, which made it push the page width and gave a space to the right. Found through inspect chrome. **rsvp.html**: Removed margin left and right from .row. It made so the screen width was over 100%, therefore making a space to the right. Found through inspect chrome. | Solved |
 
-### Browser and screen size compatibility
+### Browser and screen size responsiveness
 
+Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
+
+### Lighthouse reports
 
 ## Deployment
 
