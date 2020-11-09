@@ -27,7 +27,7 @@
 
 @media only screen and (max-width: 700px) {
     .bg-thedetails {
-        background: url();
+        background: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/cherry-thedetails-mobile.jpg?raw=true) no-repeat center center fixed;
     }
 }
 
