@@ -132,17 +132,24 @@ Color codes in same order as on the color palette image below:
 
 ## Testing 
 
+I have done a lot of testing throughout the project and below you will find it in a more structured manner. I have made sure that the user stories are tested and works well, also focused on responsiveness where I have used resources online as well as the physical devices I had access to.
+
 ### Tests done in order to secure user stories
 
 | Test | Method | Result |
 | ---- | ------ | ------ |
-| Navbar 1 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Couple" | Passed |
-| Navbar 2 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Details"| Passed |
-| Navbar 3 | Entered website to index.html, clicked collapsed menu icon, pressed on "RSVP"       | Passed |
+| Navbar 1 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Couple" and took me to the correct page | Passed |
+| Navbar 2 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Details" and took me to the correct page| Passed |
+| Navbar 3 | Entered website to index.html, clicked collapsed menu icon, pressed on "RSVP" and took me to the correct page | Passed |
+| Navbar 4 | Entered website to index.html, clicked collapsed menu icon, pressed on "RSVP", pressed "Home" to get back to landing page properly | Passed |
+| Buttons 1 | Entered website to index.html, clicked "RSVP" button below the invitation text, took me to "RSVP" page | Passed |
+| Buttons 2 | Entered website to thecouple.html, clicked "Want more details? Click here!" button below the the couple section, took me to "The Details" page | Passed |
+| Buttons 3 | Entered website to thedetails.html, clicked "Ready to RSVP? Click here!" button below the details section, took me to "RSVP" page | Passed |
 | RSVP Form 1 | Entered "RSVP" via navbar, filled in all fields, pressed on send (no function at the moment as it is static)| Passed |
 | RSVP Form 2 | Entered "RSVP" via navbar, filled in all fields except "Full Name", did not let me press send as it is a required field | Passed |
 | RSVP Form 3 | Entered "RSVP" via navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
 | RSVP Form 4 | Entered "RSVP" via navbar, filled in nothing, did not let me press send as it has required fields, starting with "Full Name" | Passed |
+| RSVP Form 5 | Entered "RSVP" via navbar, filled in all fields except "E-mail", did not let me press send as it is a required field | Passed |
 | Schedule 1 | Entered "The Details" via navbar, scroll down to "Schedule of the day", hovered over links to locations and effect appeared changing background color | Passed |
 | Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites via a new tab in your browser | Passed |
 | Responsiveness 1 | Used inspector via Google Chrome DevTools, tested different mobile prefixed formats as well as free responsivness based on screen sizes, in order to see that content lined up correctly no matter screen size | Passed |
