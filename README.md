@@ -130,9 +130,13 @@ I have decided to go with the color palette below which focus on pastel pink, of
 | Navbar 1 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Couple" | Passed |
 | Navbar 2 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Details"| Passed |
 | Navbar 3 | Entered website to index.html, clicked collapsed menu icon, pressed on "RSVP"       | Passed |
-| RSVP 1   | Entered "RSVP" through navbar, filled in all fields, pressed on send (no function at the moment as it is static)| Passed |
-| RSVP 2   | Entered "RSVP" through navbar, filled in all fields except "Full Name", did not let me press send as it is a required field | Passed |
-| RSVP 3   | Entered "RSVP" through navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
+| RSVP Form 1 | Entered "RSVP" via navbar, filled in all fields, pressed on send (no function at the moment as it is static)| Passed |
+| RSVP Form 2 | Entered "RSVP" via navbar, filled in all fields except "Full Name", did not let me press send as it is a required field | Passed |
+| RSVP Form 3 | Entered "RSVP" via navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
+| RSVP Form 4 | Entered "RSVP" via navbar, filled in nothing, did not let me press send as it has required fields, starting with "Full Name" | Passed |
+| Schedule 1 | Entered "The Details" via navbar, scroll down to "Schedule of the day", hovered over links to locations and effect appeared changing background color | Passed |
+| Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites | Passed |
+| Responsiveness 1 | Used inspector via Google Chrome DevTools, tested different mobile prefixed formats as well as free responsivness based on screen sizes, in order to see that content lined up correctly no matter screen size | Passed |
 
 ### Bugs
 
