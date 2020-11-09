@@ -169,6 +169,10 @@ Pushed my HTML code through the validator and got following messages which I cor
 
 ### CSS Validator - Tested through https://jigsaw.w3.org/css-validator
 
+| Message | Solution |
+| ------- | ----- |
+| Background 100% is not a color-stop-value ")" | This code snippet is included in a hover effect I credited from another site |
+
 ## Deployment
 
 In order to deploy my website I used GitHub pages. The deployment was made from the master branch and I did it through below steps:
