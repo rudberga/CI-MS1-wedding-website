@@ -20,7 +20,7 @@ See below user stories:
 
 ### Strategy
 
-The main goal for this website is to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. This will be displayed in a user friendly, minimal and beautifully designed way. The website will also act as a platform for the couple where they will be able to see how many guests are coming as well as other requests.
+The main goal for this website is for it to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. This will be displayed in a user friendly, minimal and beautifully designed way. The website will also act as a platform for the couple where they will be able to see how many guests are coming as well as other requests.
 
 Project goals: 
 
@@ -33,13 +33,13 @@ Project goals:
 The features of this website will let the users:
 
 - Find all the details they need for the wedding
-- RSVP directly via the website through a form with options to add additional important info 
+- RSVP directly via the website through a form with options to add additional info 
 - Get access to specific contact information for questions about the wedding
 
 
 ### Structure
 
-I wanted to focus mainly on the simplicity and elegance of a wedding website. Therefore ending up with a minimal website which have the pages Home, The Couple, The Details as well as RSVP. 
+I wanted to focus mainly on the simplicity and elegance of a wedding website. Therefore ending up with a minimal structure which have the pages Home, The Couple, The Details as well as RSVP. These pages will be easy to navigate through via the navbar.
 
 ### Skeleton
 
@@ -55,7 +55,7 @@ I wanted to focus mainly on the simplicity and elegance of a wedding website. Th
 
 #### Main inspiration
 
-My main inspiration of the looks of the website is cherry blossoms in Japan. The reason for this is because the actual wedding will take part in Japan and it is a familiar sight for both non-Japanese and Japanese guests. 
+My main inspiration of the looks of the website is cherry blossoms in Japan. The reason for this is because the actual wedding will take part in Japan and it is usually a familiar sight for both non-Japanese and Japanese guests. 
 
 #### Fonts
 
@@ -80,7 +80,7 @@ I have decided to go with the color palette below which focus on pastel pink, of
  
 ### Existing Features
 - **RSVP**: allows guests to inform if they are coming to the wedding, by simply filling out a form
-- **Navbar header**: collapsed navbar on landing page to keep the elegant touch on all screen sizes, expanded on the rest of the pages for easy navigation
+- **Navbar**: collapsed navbar on landing page to keep the elegant touch on all screen sizes, expanded on the rest of the pages for easy navigation
 - **Social links**: in the footer you will find the icons for ways to contact the couple, this shows up on all pages except the landing page
 - **Details page**: including all information needed for guests before the wedding
 - **Timeline**: minimal timeline for guests to see the schedule of the wedding
@@ -118,28 +118,29 @@ I have decided to go with the color palette below which focus on pastel pink, of
    - Used for all the icons in the project. Connected to HTML via CDN
 
 - [Unsplash](https://unsplash.com/)
-   - Used for all the images in the project. Imported to html via <img>
+   - Used for all the images in the project except bride and groom images. Imported locally to html via <img>
    
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Tests
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+| Test | Method | Result |
+| ---- | ------ | ------ |
+| Navbar 1 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Couple" | Passed |
+| Navbar 2 | Entered website to index.html, clicked collapsed menu icon, pressed on "The Details"| Passed |
+| Navbar 3 | Entered website to index.html, clicked collapsed menu icon, pressed on "RSVP"       | Passed |
+| RSVP 1   | Entered "RSVP" through navbar, filled in all fields, pressed on send (no function at the moment as it is static)| Passed |
+| RSVP 2   | Entered "RSVP" through navbar, filled in all fields except "Full Name", did not let me press send as it is a required field | Passed |
+| RSVP 3   | Entered "RSVP" through navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### Bugs
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+| Bug | Solution | Current status |
+| --- | -------- | -------------- |
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Browser and screen size compatibility
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
