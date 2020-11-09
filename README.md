@@ -158,6 +158,17 @@ Color codes in same order as on the color palette image below:
 
 Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
 
+### HTML Validator - Tested through https://validator.w3.org
+
+Pushed my HTML code through the validator and got following messages which I corrected:
+
+| Message | Solution |
+| ------- | ----- |
+| Section lacks heading | Added class "rsvp" to identify the section |
+| Section lacks heading | Added class "rsvp" to identify the section |
+
+### CSS Validator - Tested through https://jigsaw.w3.org/css-validator
+
 ## Deployment
 
 In order to deploy my website I used GitHub pages. The deployment was made from the master branch and I did it through below steps:
