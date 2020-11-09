@@ -5,6 +5,8 @@
 <p align="center"><strong>Milestone 1 project - Full Stack Web Developer course - Code Institute</strong></p>
 
 This website will work as the invitation and information page for a wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
+
+[Link to deployed website!](https://rudberga.github.io/CI-MS1-wedding-website/index.html)
  
 ## UX
 
@@ -135,7 +137,7 @@ I have decided to go with the color palette below which focus on pastel pink, of
 | RSVP Form 3 | Entered "RSVP" via navbar, filled in all fields but the "E-mail" in wrong format, did not let me press send as it has a required format | Passed |
 | RSVP Form 4 | Entered "RSVP" via navbar, filled in nothing, did not let me press send as it has required fields, starting with "Full Name" | Passed |
 | Schedule 1 | Entered "The Details" via navbar, scroll down to "Schedule of the day", hovered over links to locations and effect appeared changing background color | Passed |
-| Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites | Passed |
+| Schedule 2 | Entered "The Details" via navbar, scroll down to "Schedule of the day", clicked all links to locations that should take me to their websites via a new tab in your browser | Passed |
 | Responsiveness 1 | Used inspector via Google Chrome DevTools, tested different mobile prefixed formats as well as free responsivness based on screen sizes, in order to see that content lined up correctly no matter screen size | Passed |
 
 ### Bugs
@@ -150,6 +152,16 @@ I have decided to go with the color palette below which focus on pastel pink, of
 Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
 
 ### Lighthouse reports
+
+See below reports from Lighthouse:
+
+#### index.html
+
+#### thecouple.html
+
+#### thedetails.html
+
+#### rsvp.html
 
 ## Deployment
 
