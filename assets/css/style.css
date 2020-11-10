@@ -387,7 +387,7 @@ nav {
   background:
      linear-gradient(
        to bottom, var(--mainColor) 0%,
-       var(--mainColor) 100%
+       #ffc7c7 100%
      );
   background-position: 0 100%;
   background-repeat: repeat-x;
