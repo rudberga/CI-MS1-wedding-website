@@ -250,5 +250,6 @@ I have modified these code snippets in order for them to work in my project.
 
 ### Acknowledgements
 
-- I received inspiration for this project from several other wedding websites I have seen while doing research on this project 
+- I received inspiration for this project from my own wedding that will take place in Japan next year 
+- The color theme inspiration was found in the cherry blossom season of Japan
 - I want to thank my mentor **Nishant Kumar** for the support throghout the project
