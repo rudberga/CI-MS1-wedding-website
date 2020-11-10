@@ -25,6 +25,19 @@ html, body {
     background-size: cover;
 }
 
+@media only screen and (max-width: 700px) {
+    .bg-thedetails {
+        background: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/cherry-thedetails.jpg?raw=true); 
+        -webkit-background-size: 100vw auto;
+        -moz-background-size: 100vw auto;
+        -o-background-size: 100vw auto;
+        background-size: 100vw auto;
+        background-position: top center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
+
 /*CREDIT Image:https://unsplash.com/photos/7TzQ7l3lDAY*/
 .bg-rsvp {
     background: url(https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/cherry-rsvp.jpg?raw=true) no-repeat center center fixed; 
