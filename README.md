@@ -50,7 +50,7 @@ The features of this website will let the users:
 
 ### Structure
 
-I wanted to focus mainly on the simplicity and elegance of a wedding website. Therefore ending up with a minimal structure which have the pages Home, The Couple, The Details as well as RSVP. These pages will be easy to navigate through via the navbar.
+I wanted to focus mainly on the simplicity and elegance of a wedding website. Therefore ending up with a minimal structure which have the pages "Home", "The Couple", "The Details" as well as "RSVP". These pages will be easy to navigate through via the navbar.
 
 ### Skeleton
 
