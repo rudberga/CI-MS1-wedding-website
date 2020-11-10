@@ -168,7 +168,7 @@ I have done a lot of testing throughout the project and below you will find it i
 
 Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
 
-### [HTML Validator](https://validator.w3.org)
+### HTML Validator - [Link](https://validator.w3.org)
 
 Pushed my HTML code through the validator and got following messages which I corrected:
 
@@ -176,15 +176,17 @@ Pushed my HTML code through the validator and got following messages which I cor
 | ------- | ----- |
 | Section lacks heading | Added h1 instead of p for the title in the section|
 | Bad value button for attribute type on element a: Subtype missing. | Removed type="button"|
-| The frameborder attribute on the iframe element is obsolete. | Removed framborder as it was 0 and not needed |
+| The frameborder attribute on the iframe element is obsolete. | Removed frameborder as it was 0 and not needed |
 
 All errors and warnings are now gone.
 
-### [CSS Validator](https://jigsaw.w3.org/css-validator)
+### CSS Validator - [Link](https://jigsaw.w3.org/css-validator)
 
 | Message | Solution |
 | ------- | ----- |
-| Background 100% is not a color-stop-value ")" | This code snippet is included in a hover effect I credited from another site |
+| Background 100% is not a color-stop-value ")" | Replaced second var with the hex value of the color |
+
+All errors and warnings are now gone.
 
 ## Deployment
 
