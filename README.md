@@ -137,7 +137,7 @@ Color codes in same order as on the color palette image below:
    - Used for all the icons in the project. Connected to HTML via CDN
 
 - [Unsplash](https://unsplash.com/)
-   - Used for all the images in the project except bride and groom images. Imported locally to html via <img>
+   - Used for all the images in the project except bride and groom images. Imported locally through assets/img
    
 
 ## Testing 
