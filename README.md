@@ -104,6 +104,7 @@ Color codes in same order as on the color palette image below:
 - **Timeline**: minimal timeline for guests to see the schedule of the wedding
 - **Couple page**: fun page for guests to get to know the couple a little more
 - **Buttons**: buttons in the end of each page for a natural navigation forward in the flow of the website, on landing page you go straight to RSVP
+- **Direct links**: links to the different venues websites directly put into the schedule
 
 ### Features Left to Implement
 - **Gallery**: might add gallery in future of maybe the couple or the destination where the wedding is at
@@ -250,4 +251,4 @@ I have modified these code snippets in order for them to work in my project.
 ### Acknowledgements
 
 - I received inspiration for this project from several other wedding websites I have seen while doing research on this project 
-- I want to thank my mentor Nishant Kumar for the support throghout the project
+- I want to thank my mentor **Nishant Kumar** for the support throghout the project
