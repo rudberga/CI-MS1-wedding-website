@@ -173,7 +173,7 @@ Have done extensive testing in Chrome DevTools, different browsers as well as on
 - [whatismyscreenresolution.net](http://whatismyscreenresolution.net/multi-screen-test)
 - [responsivetesttool.com](http://responsivetesttool.com/)
 
-### HTML Validator - [Link](https://validator.w3.org)
+### HTML Validator (W3C Markup) - [Link](https://validator.w3.org)
 
 Pushed my HTML code through the validator and got following messages which I corrected:
 
@@ -185,7 +185,7 @@ Pushed my HTML code through the validator and got following messages which I cor
 
 All errors and warnings are now gone.
 
-### CSS Validator - [Link](https://jigsaw.w3.org/css-validator)
+### CSS Validator (W3C CSS) - [Link](https://jigsaw.w3.org/css-validator)
 
 | Message | Solution |
 | ------- | ----- |
