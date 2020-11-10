@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Milestone 1 project - Full Stack Web Developer course - Code Institute</strong></p>
 
-This website will work as the invitation and information page for a wedding. The point of having a website instead of a classic letter invitation is for the guests (users) to have easy access to all info they need and to be able to RSVP directly via a form. It is also a much better way for the website owner (couple getting married) to have an easy way of keeping track on RSVP's as well as other requests.
+This website will work as the invitation and information page for a wedding. The point of having a website such as this instead of a classic letter invitation is for the guests/users to have easy access to all the info they need and to be able to RSVP directly via a form. It is also a much better way for the couple getting married to keep track on RSVP's as well as other requests that might come in.
 
 [Link to deployed website!](https://rudberga.github.io/CI-MS1-wedding-website/index.html)
  
@@ -18,9 +18,15 @@ See below user stories:
 
 > *- "As a guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to contact the couple directly for that purpose"*
 
-> *- "As a guest, I expect to find out more information about the couple who are getting married, so I can learn more about them"*
+> *- "As a guest, I expect to find more information about the couple who are getting married, so I can learn more about them"*
 
 > *- "As a guest, I expect to find contact information or social links to the couple, so I can contact them with questions"*
+
+> *- "As a guest, I expect to find direct links to the venues, so I can check them out before the wedding"*
+
+> *- "As a guest, I expect to find instructions on how to get to the venue, so I can plan for the trip"*
+
+> *- "As a guest, I expect to find a schedule of the day with times, so I can get the idea of how long the event will be"*
 
 ### Strategy
 
