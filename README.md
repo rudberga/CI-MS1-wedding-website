@@ -166,7 +166,12 @@ I have done a lot of testing throughout the project and below you will find it i
 
 ### Browser and screen size responsiveness
 
-Have done testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
+Have done extensive testing in Chrome DevTools, different browsers as well as on physical devices I had access to. The website is responsive and it acts as it is supposed to when changing between devices, browsers and screen sizes.
+
+**Websites used for testing on different screen sizes (other than what is mentioned above):**
+
+- [whatismyscreenresolution.net](http://whatismyscreenresolution.net/multi-screen-test)
+- [responsivetesttool.com](http://responsivetesttool.com/)
 
 ### HTML Validator - [Link](https://validator.w3.org)
 
