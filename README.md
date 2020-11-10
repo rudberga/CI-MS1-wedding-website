@@ -16,7 +16,7 @@ See below user stories:
 
 > *- "As a guest, I expect to find all the practical information I need, so I can prepare for the wedding"*
 
-> *- "As a guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to contact the couple directly for that purpose"*
+> *- "As a guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to send it by letter or email"*
 
 > *- "As a guest, I expect to find more information about the couple who are getting married, so I can learn more about them"*
 
@@ -30,21 +30,22 @@ See below user stories:
 
 ### Strategy
 
-The main goal for this website is for it to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. This will be displayed in a user friendly, minimal and beautifully designed way. The website will also act as a platform for the couple where they will be able to see how many guests are coming as well as other requests.
+The main goal for this website is for it to act as an invitation and information hub for the guests of the wedding, where they can see all details as well as RSVP directly in an effortless manner. They will also get the social links to the couple in order to smoothly contact them if needed. The website will be displayed in a user friendly, minimal and beautifully designed way. The website will also help the couple in their planning in the sense that they will be able to digitally receive RSVP's, as well as focus the contact flow to the certain social links that is provided on the website.
 
 Project goals: 
 
-- Design a beautiful welcoming website fitting for a wedding
+- Design a beautiful and elegant welcoming website fitting for a wedding
 - Have all relevant information available in a user friendly environment for the users
+- Have a page with some extra "fun-to-know" information about the couple
 - Have a RSVP page which is simple to navigate for any user
 
 ### Scope
 
 The features of this website will let the users:
 
-- Find all the details they need for the wedding
+- Find all the details they need for the wedding about the location, directions and schedule 
 - RSVP directly via the website through a form with options to add additional info 
-- Get access to specific contact information for questions about the wedding
+- Get access to specific contact information they can use for questions about the wedding
 
 
 ### Structure
