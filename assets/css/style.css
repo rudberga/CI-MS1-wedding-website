@@ -14,6 +14,8 @@ html, body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    /*Fallback bg-color*/
+    background-color: #c0dbf7;
 }
 
 /*CREDIT Image:https://unsplash.com/photos/14cHwhRKJh8*/
@@ -23,6 +25,8 @@ html, body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    /*Fallback bg-color*/
+    background-color: #c1def0; 
 }
 
 /*CREDIT Image:https://unsplash.com/photos/7TzQ7l3lDAY*/
@@ -32,6 +36,8 @@ html, body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    /*Fallback bg-color*/
+    background-color: #f1f1f1;
 }
 
 /*--------------------------------- Navbar */
