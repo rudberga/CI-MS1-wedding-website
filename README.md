@@ -112,7 +112,7 @@ Color codes in same order as on the color palette image below:
 
 ## Technologies Used
 
-**Languages**
+**Languages / Markup**
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - Main programming language
